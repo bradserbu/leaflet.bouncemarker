@@ -196,6 +196,5 @@
         originalOnRemove.call(this, map);
       }
     });
-
-  };
+  });
 })();
